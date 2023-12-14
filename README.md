@@ -1,1 +1,1 @@
-# Employee-Attrition-Prediction-Using-Gradient-Boosting-Algorithms
+# Prediction of Employee Attrition Using Gradient Boosting Algorithms (XGBoost, CatBoost, LightGBM & Ensemble of GBMs)
